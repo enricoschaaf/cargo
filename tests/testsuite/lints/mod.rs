@@ -18,6 +18,7 @@ mod redundant_readme;
 mod text_direction_codepoint;
 mod unknown_lints;
 mod unused_dependencies;
+mod unused_dependencies_transitive;
 mod unused_workspace_dependencies;
 mod unused_workspace_package_fields;
 mod warning;
